@@ -1,6 +1,6 @@
 //Code: VaccumCode
 //Version: 2.0.1
-//Author: Cesar Nieto refer to ces.nietor@gmail.com
+//Author: Cesar Nieto - I got this code online and used it for my personal project
 //Last change: 19/05/2017
 //Changes: Documentation added
 #include <math.h> 
